@@ -3,7 +3,7 @@ import pandas as pd
 import pickle
 
 # Load the trained model
-filename = r'knn_model.sav'
+filename = r'knn_model20th.sav'
 loaded_model = pickle.load(open(filename, 'rb'))
 
 # Define the correct column names
