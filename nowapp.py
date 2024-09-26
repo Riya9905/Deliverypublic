@@ -96,7 +96,7 @@ pickle.dump(model, open(filename, 'wb'))
 # Commented out IPython magic to ensure Python compatibility.
 # # prompt: generate code for streamlit app
 # 
-# %%writefile app.py
+# %%writefile nowapp.py
 # import streamlit as st
 # import pandas as pd
 # import pickle
